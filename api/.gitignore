@@ -1,0 +1,6 @@
+node_modules
+
+uploads/images/
+uploads/users/
+
+package-lock.json
